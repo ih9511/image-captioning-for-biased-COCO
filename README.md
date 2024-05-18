@@ -24,6 +24,8 @@ AI models trained on biased data can produce harmful outcomes, highlighting the 
 The objective of this study is to create two datasets with positive and negative biases and train the same CNN model on each dataset. By using CNN visualization techniques, we aim to visually confirm how each model learns biases, thereby providing insights into avoiding biased AI design.
 
 ## Methodology
+![image](https://github.com/ih9511/image-captioning-for-biased-COCO/assets/46120405/e26de6ce-24ac-46d1-91ac-0aac0c151075)
+
 ### Dataset
 #### AffectNet
 AffectNet is a dataset containing approximately 450,000 facial expression images labeled with eight emotion categories: happy, surprise, neutral, sad, fear, disgust, anger, and contempt. The dataset is used to create three subsets: positive, negative, and neutral.
