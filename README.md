@@ -42,6 +42,7 @@ EfficientNet was chosen due to its high accuracy and computational efficiency. T
 CNN visualization techniques, such as LayerCAM, were used to identify the regions of images that the models focused on during classification. This helps in understanding how different biases in the training data influence model predictions.
 
 ## Result Analysis
+![image](https://github.com/ih9511/image-captioning-for-biased-COCO/assets/46120405/7d404648-ff57-4716-a192-d522a2b0a827)
 ### Neutral Image LayerCAM
 The visualizations show how the positively biased model and the negatively biased model interpret neutral images differently.
 
